@@ -1,0 +1,1 @@
+[Open rendered notebook here!](https://html-preview.github.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxileith%2Fpkv-kosten%2Fmain%2Fnotebook.html)
